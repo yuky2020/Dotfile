@@ -1,0 +1,21 @@
+899bf973bcd732ea9224f3889811a3c0|file:///home/matt/.zshrc|71|1|V|zsh
+	plugins=(git)
+3a73a7068ce68d7fd2cccf1384ebbb73|file:///home/matt/code/Testj.java|9|1|V|java
+	  System.out.println("eseguire test?")
+	
+c2e211dc380c6659bf86af5f761720f1|file:///home/matt/code/Testj.java|9|1|V|java
+	  System.out.println("#################################");
+d1e326115a07111043312a5f2bb2ba4b|file:///home/matt/code/Testj.java|13|3|V|java
+	  while(!=esc){
+47c41fb72fbc877bd78820c9b75cd600|file:///home/matt/code/Testj.java|13|4|V|java
+	    boolean esc=false;
+83c9e661ef8109a8fcea904b62555cab|file:///home/matt/code/ControlloreMappa.java|1|8|v|java
+	java.util.;
+	
+2607cf438ea95fb0dc8f4aa73ad7db07|file:///home/matt/.config/fish/conf.d/omf.fish|6|26|v|fish
+	pastebi
+cd8efd2b44c0ff871e02b29aef3930b7|file:///home/matt/.config/awesome/configuration/apps.lua|48|24|v|lua
+	i -dpi ' .. screen.primary.dpi ..
+										'/configuration/rofi/rofi-menus-master/rofi-menus-master/scripts/.appsmenu.sh',
+019ff0a4fa414f227c006558899fa51b|file:///home/matt/.zshrc|217|1|V|zsh
+	#Stands for When Did I Last?

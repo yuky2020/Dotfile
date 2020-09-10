@@ -1,0 +1,6 @@
+[DELL081C:00 044E:121F Touchpad]
+pointerAcceleration=0.2
+tapToClick=true
+
+[SynPS/2 Synaptics TouchPad]
+tapToClick=true

@@ -1,0 +1,29 @@
+[DownloadDialog Settings]
+Height 1080=550
+Width 1920=800
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_google-chrome.desktop,1 services_applications:firefox.desktop,1 services_applications:GitKraken.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil,calculator,unitconverter,shell,bookmarks,baloosearch,locations
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP1
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=false
+currentLayout=My Layout
+downloadWindowSize=800,550
+lastNonAssignedLayout=My Layout
+launchers=
+layoutsColumnWidths=126,88,71,0
+layoutsWindowSize=700,560
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

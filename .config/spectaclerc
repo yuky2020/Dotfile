@@ -1,0 +1,16 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureMode=5
+cropRegion=201,229,1117,427
+window-position=50,30
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/Screenshot_20200831_232126.png,file:$HOME/Documents/Screenshot_20200831_232126.png
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
+
+[Save]
+lastSaveAsLocation=file:///home/matt/Documents/Screenshot_20200831_232126.png
+lastSaveLocation=file:///home/matt/Documents/Screenshot_20200831_232126.png

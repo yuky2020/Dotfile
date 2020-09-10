@@ -1,0 +1,14 @@
+package argu
+package bass
+package colored-man-pages
+package config
+package foreign-env
+package https://gitlab.com/lusiadas/contains_opts
+package https://gitlab.com/lusiadas/feedback
+package neovim
+package nvm
+package spark
+package weather
+theme default
+theme spacefish
+theme sushi

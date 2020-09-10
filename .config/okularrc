@@ -1,0 +1,39 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAP0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true
+
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=1050
+Height 768=724
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPzAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAD4P////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1366=683
+Width 1920=1920
+Window-Maximized 1080x1920=true
+Window-Maximized 768x1366=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/my_arch_manjaro_setup.md
+File10[$e]=$HOME/Documents/ro1/grafi/Lezione_3.pdf
+File2[$e]=$HOME/Documents/ro1/PACCIARELLI2.pdf
+File3[$e]=$HOME/Downloads/FatturaElettronica APP - Visualizzazione fattura ricevuta.pdf
+File4[$e]=$HOME/Documents/ro1/Materiale didattico-20200629/Lezioni RO1, Teoria della PL.pdf
+File5[$e]=$HOME/Documents/ro1/Materiale didattico-20200629/Lezioni RO1, Intro e Formulazioni.pdf
+File6[$e]=$HOME/Documents/ro1/Materiale didattico-20200629/Lezioni RO1, Teoria Dualità.pdf
+File7[$e]=$HOME/Downloads/Telegram Desktop/Domande fisica.pdf
+File8[$e]=$HOME/Documents/ro1/grafi/Lezione_4.pdf
+File9[$e]=$HOME/Documents/ro1/grafi/Lezione_2.pdf
+Name1[$e]=my_arch_manjaro_setup.md
+Name10[$e]=Lezione_3.pdf
+Name2[$e]=PACCIARELLI2.pdf
+Name3[$e]=FatturaElettronica APP - Visualizzazione fattura ricevuta.pdf
+Name4[$e]=Lezioni RO1, Teoria della PL.pdf
+Name5[$e]=Lezioni RO1, Intro e Formulazioni.pdf
+Name6[$e]=Lezioni RO1, Teoria Dualità.pdf
+Name7[$e]=Domande fisica.pdf
+Name8[$e]=Lezione_4.pdf
+Name9[$e]=Lezione_2.pdf

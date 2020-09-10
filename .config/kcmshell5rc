@@ -1,0 +1,8 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=wallhaven-lmxmxy.png,file:$HOME/Downloads/wallhaven-lmxmxy.png
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0

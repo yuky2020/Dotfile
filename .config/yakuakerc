@@ -1,0 +1,22 @@
+[Appearance]
+BackgroundColorOpacity=54
+Skin=Nilium
+SkinInstalledWithKns=true
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=Profilo 1.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+Height 1080=477
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[Window]
+Height=42
+Width=85

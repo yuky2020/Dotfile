@@ -1,0 +1,19 @@
+[DownloadDialog Settings]
+Height 1080=490
+Height 768=477
+Width 1366=700
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=wallhaven-dgjqm3.jpg,file:$HOME/Pictures/wallhaven-lmxmxy.png,file:$HOME/Downloads/wallhaven-dgjqm3.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=700
+Height 768=673
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1024
+Width 1920=1024

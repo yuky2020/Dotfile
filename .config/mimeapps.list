@@ -1,0 +1,26 @@
+[Added Associations]
+application/pdf=org.kde.okular.desktop;
+application/x-shellscript=org.kde.kate.desktop;
+image/jpeg=org.kde.gwenview.desktop;okularApplication_kimgio.desktop;feh.desktop;
+image/png=org.kde.gwenview.desktop;
+image/svg+xml=google-chrome.desktop;okularApplication_txt.desktop;
+inode/directory=org.kde.dolphin.desktop;ranger.desktop;
+text/markdown=nvim.desktop;
+text/plain=org.kde.kate.desktop;nvim-qt.desktop;nvim.desktop;
+text/x-lua=nvim.desktop;org.kde.kate.desktop;code-oss.desktop;nvim-qt.desktop;okularApplication_txt.desktop;
+text/x-systemd-unit=org.kde.kate.desktop;
+
+[Default Applications]
+application/pdf=org.kde.okular.desktop;
+image/png=org.kde.gwenview.desktop
+inode/directory=org.kde.dolphin.desktop;
+text/html=firefox.desktop
+text/markdown=nvim.desktop;
+text/plain=nvim.desktop;
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+x-scheme-handler/http=google-chrome.desktop;
+x-scheme-handler/https=google-chrome.desktop;
+x-scheme-handler/mailspring=mailspring.desktop
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/discord-478576776990425110=discord-478576776990425110.desktop

@@ -1,0 +1,34 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1019817817e185000159947629100000013500002
+clientId2=1019817817e185000159947629100000013500004
+clientId3=1019817817e185000159947629100000013500005
+clientId4=1019817817e185000159947629100000013500006
+clientId5=1019817817e185000159947632600000013500008
+count=5
+discardCommand3[$e]=rm,$HOME/.config/session/yakuake_1019817817e185000159947629100000013500005_1599673161_694914
+program1=/usr/bin/latte-dock
+program2=/usr/lib/DiscoverNotifier
+program3=/usr/bin/yakuake
+program4=pulseaudio
+program5=firefox
+restartCommand1=/usr/bin/latte-dock,-session,1019817817e185000159947629100000013500002_1599673161_692319
+restartCommand2=/usr/lib/DiscoverNotifier,-session,1019817817e185000159947629100000013500004_1599673161_692404
+restartCommand3=/usr/bin/yakuake,-session,1019817817e185000159947629100000013500005_1599673161_694914
+restartCommand4=
+restartCommand5=/usr/lib/firefox/firefox,--sm-client-id,1019817817e185000159947632600000013500008
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=matt
+userId2=matt
+userId3=matt
+userId4=matt
+userId5=matt

@@ -1,0 +1,15 @@
+[Plugins]
+org.kde.ActivityManager.ResourceScoringEnabled=true
+
+[activities]
+91f8f651-c6fc-4e7b-b263-b74e40c2bb95=test
+d01b991d-b4fa-41c9-9b40-b2adee9eca44=Default
+
+[activities-descriptions]
+91f8f651-c6fc-4e7b-b263-b74e40c2bb95=www
+
+[activities-icons]
+91f8f651-c6fc-4e7b-b263-b74e40c2bb95=activities
+
+[main]
+currentActivity=91f8f651-c6fc-4e7b-b263-b74e40c2bb95
